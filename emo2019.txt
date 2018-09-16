@@ -1,0 +1,117 @@
+The deadline for paper submission for EMO-2019 Conference has been
+postponed until 07 October 2018 23:59 HST. Please note that this is a
+rigid deadline and no further extension will be possible.
+
+Hope this extension will give you adequate time to submit your paper to
+https://easychair.org/conferences/?conf=emo2019.
+
+Best,
+
+Kalyanmoy Deb
+
+On 09/09/18 9:18 AM, Kalyanmoy Deb wrote:
+*Apologies if you have received multiple copies of this CFPs*
+
+Paper Submission Site for EMO-2019 Conference is open at
+---------------------------------------------
+
+https://easychair.org/conferences/?conf=emo2019
+Submission Deadline: *24 September 2018* (Mark your calendar)
+
+Please submit your work to EMO-2019: 10th International Conference on
+Evolutionary Multi-Criterion Optimization
+https://www.emo2019.org/
+
+We appreciate it very much if you can forward this CFPs to yoru
+colleagues and appropriate communities.
+=============
+
+Call for Papers
+-----------------------------------------------------------------------------------------
+
+
+EMO 2019: 10th International Conference on Evolutionary Multi-Criterion
+Optimization
+
+-----------------------------------------------------------------------------------------
+
+https://www.emo2019.org/
+10-13 March 2019, Michigan State University, East Lansing, Michigan, USA
+Submission Deadline: 24 September 2018
+-----------------------------------------------------------------------------------------
+
+
+About EMO 2019:
+
+EMO 2019 is the 10th Edition of International Conference Series on
+Evolutionary Multi- Criterion Optimization (EMO), aiming to continue the
+success of previous EMO conferences. We will bring together both the
+EMO, Multiple Criteria Decision-Making (MCDM) communities, and other
+related fields and, moreover, focus on solving real-world problems in
+government, business and industry. Michigan is the birthplace of genetic
+algorithms research and EMO 2019 will plan on celebrating past 50 years
+of research and development in evolutionary computation and 10th edition
+of EMO conference series.
+
+Conference Format:
+
+The conference will be in single session format, with papers provided as
+either oral or as poster presentations. The conference format will include:
+
+     Keynotes
+     Tutorials
+     EMO Sessions
+     MCDM Sessions
+     Industry Sessions
+     Industry Booths for Software/Application Demonstration
+     Poster Session
+     Panel Session (to be finalized)
+
+
+Topics of interests:
+
+We aim to discuss all aspects of EMO development and deployment,
+including (but not limited to):
+
+     EMO for handling of continuous, combinatorial and/or mixed-integer
+problems
+     Constraint handling approaches
+     Uncertainty and noise handling approaches
+     Many-objective optimization
+     Theoretical foundations
+     Preference handling techniques
+     Performance evaluation and metrics
+     Multiobjectivization
+     Local search techniques
+     Hybrid approaches
+         Point and population-based hybrids
+         EMO and MCDM hybrids
+     Stopping criteria
+     Parallel EMO models and implementations
+     Test functions and benchmark problems
+     Algorithm selection approaches
+     Comparative studies
+     Metamodeling methods in EMO
+     EMO in Bilevel and generic hierarchical optimization
+     Knowledge-driven EMO
+     Large-scale optimization
+     Real-world applications
+     EMO algorithm implementation
+
+Deadlines and Submission (Please mark your Calendar):
+Submission Deadline: Sept 24, 2018
+Final Paper Submission: December 14, 2018
+Conference: March 10-13, 2018
+
+Proceedings:
+
+Springer will publish the EMO-2019 proceedings under LNCS Series. A
+maximum page limit of 12 pages in Springer's LNCS format will be
+followed. No distinction on page limits of oral and poster papers will
+be given.
+
+
+Organizers and Contact (Committee details can be found on the conference
+website https://www.emo2019.org):
+
+Kalyanmoy Deb
